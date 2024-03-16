@@ -6,10 +6,10 @@ import { PlugZap } from "lucide-react";
 import { GlobeLock } from "lucide-react";
 
 export const navItems = [
-  { label: "About", href: "1" },
-  { label: "Workflow", href: "2" },
-  { label: "Pricing", href: "3" },
-  { label: "Testimonials", href: "4" },
+  { label: "O nas", href: "1" },
+  { label: "Oferty", href: "2" },
+  { label: "Galeria", href: "3" },
+  { label: "Kontakt", href: "4" },
 ];
 
 export const about = [
