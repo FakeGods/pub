@@ -6,13 +6,13 @@ import { PlugZap } from "lucide-react";
 import { GlobeLock } from "lucide-react";
 
 export const navItems = [
-  { label: "Features", href: "#" },
-  { label: "Workflow", href: "#" },
-  { label: "Pricing", href: "#" },
-  { label: "Testimonials", href: "#" },
+  { label: "About", href: "1" },
+  { label: "Workflow", href: "2" },
+  { label: "Pricing", href: "3" },
+  { label: "Testimonials", href: "4" },
 ];
 
-export const features = [
+export const about = [
   {
     icon: <BotMessageSquare />,
     text: "Drag-and-Drop Interface",
