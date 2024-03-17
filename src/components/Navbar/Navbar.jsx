@@ -1,5 +1,5 @@
 import logo from "../assets/logo.png";
-import { navItems } from "../constants/index.jsx";
+import { navItems } from "../../constants/index.jsx";
 
 const Navbar = () => {
   return (
