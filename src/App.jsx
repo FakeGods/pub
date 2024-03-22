@@ -10,9 +10,9 @@ const App = () => {
     <>
       <Navbar />
       <Hero />
+      <Services />
       <Contact />
       <Footer />
-      <Services />
     </>
   );
 };
