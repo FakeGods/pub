@@ -31,8 +31,7 @@ export const about = [
     description:
       "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
   },
- 
- 
+];
 
 export const pricingOptions = [
   {
