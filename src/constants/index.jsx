@@ -32,12 +32,6 @@ export const about = [
       "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
   },
   {
-    icon: <BatteryCharging />,
-    text: "Real-Time Preview",
-    description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
-  },
-  {
     icon: <PlugZap />,
     text: "Collaboration Tools",
     description:
