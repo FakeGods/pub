@@ -31,19 +31,8 @@ export const about = [
     description:
       "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
   },
-  {
-    icon: <PlugZap />,
-    text: "Collaboration Tools",
-    description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
-  },
-  {
-    icon: <GlobeLock />,
-    text: "Analytics Dashboard",
-    description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
-  },
-];
+ 
+ 
 
 export const pricingOptions = [
   {
